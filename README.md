@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hello%20Everyone&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&animation=fadeIn
+<--Hi Everyone
 
 
 - 📛   Erandi Dayasena
