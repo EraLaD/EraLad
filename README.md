@@ -1,5 +1,5 @@
-<p align="center">https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hello%20Everyone&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&animation=fadeIn
-</p>
+https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hello%20Everyone&reversal=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&animation=fadeIn
+
 
 - 📛   Erandi Dayasena
 - 👱   Pronouns: she/her
